@@ -1,0 +1,99 @@
+    1  man
+    2  man dirctory
+    3  man directory
+    4  mkdir ~/CIT173_Lab3
+    5  whoami
+    6  cd ~/CIT173_Lab3
+    7  git clone https://github.com/RenoTechnologyAcademy/CIT173_Lab3_Files.git
+    8  sudo tar -xvf ~/CIT173_Lab3_Files/phonebook.tar.gz
+    9  ls
+   10  mv CIT173_Lab3_Files/ ../.
+   11  ls
+   12  sudo tar -xvf ~/CIT173_Lab3_Files/phonebook.tar.gz
+   13  cat ~/CIT173_Lab3_phonebook1.txt
+   14  cd
+   15  cat ~/CIT173_Lab3_phonebook1.txt
+   16  cd ~/CIT173_Lab3
+   17  cat ~/CIT173_Lab3_phonebook1.txt
+   18  cd
+   19  man sed
+   20  dir
+   21  cd ~/CIT173_Lab3_Files
+   22  cat ~/CIT173_Lab3_phonebook1.txt
+   23  dir
+   24  cd ~/CIT173_Lab3
+   25  dir
+   26  cat ~/CIT173_Lab3_phonebook1.txt
+   27  cd
+   28  cat ~/CIT173_Lab3_phonebook1.txt
+   29  cd ~/CIT173_Lab3
+   30  cat ~/CIT173_Lab3_phonebook1.txt
+   31  ls
+   32  ls-al
+   33  la -al
+   34  ls -al
+   35  cat ~/CIT173_Lab3_phonebook1.txt
+   36  sudo sed -i's/575/775/g' ~CIT173_Lab3/phonebook1.txt
+   37  sudo sed -i 's/575/775/g' ~CIT173_Lab3/phonebook1.txt
+   38  cd
+   39  sudo sed -i 's/575/775/g' ~CIT173_Lab3/phonebook1.txt
+   40  cd ~/CIT173_Lab3
+   41  l -as
+   42  dir
+   43  sudo
+   44  dir
+   45  whoami
+   46  cd sudo
+   47  sudo
+   48  dir
+   49  sudo sed -i 's/575/775/g' ~CIT173_Lab3/phonebook1.txt
+   50  l -as
+   51  dir
+   52  ls -al
+   53  cat phonebook1.txt 
+   54  cat ~/phonebook1.txt 
+   55  cat phonebook1.txt 
+   56  cat ~/CIT173_Lab3/phonebook1.txt 
+   57  cat phonebook1.txt 
+   58  cat ~/CIT173_Lab3/phonebook1.txt 
+   59  sudo sed -i 's/575/775/g' ~CIT173_Lab3/phonebook1.txt
+   60  sudo sed -i 's/575/775/g' ~/CIT173_Lab3/phonebook1.txt
+   61  sudo sed -i 's/575/775/g' ~/CIT173_Lab3/phonebook2.txt
+   62  history > ~/CIT173_Lab2/my-command-history.txt
+   63  cd
+   64  cd ~/CIT173_Lab2
+   65  history > ~/CIT173_Lab2/my-command-history.txt
+   66* 
+   67  cat ~CIT173_Lab3/phonebook1.txt ~/CIT173_Lab3/phonebook2.txt > ~/CIT173_Lab3/my-phonebook.txt
+   68  cat /phonebook1.txt /phonebook2.txt > ~/CIT173_Lab3/my-phonebook.txt
+   69  cat phonebook1.txt phonebook2.txt > my-phonebook.txt
+   70  sudo -i
+   71  apt
+   72  dir
+   73  ls
+   74  man apt
+   75  apt-get install python3-minimal
+   76  sudo apt-get install python3-minimal
+   77  apt-get redirect output > ~/CIT173_Lab3/my-installed-1.txt
+   78  man apt
+   79  apt list
+   80  man apt
+   81  apt list > ~/CIT173_Lab3/my-installed.txt
+   82  apt list --installed > ~/CIT173_Lab3/my-installed-1.txt
+   83  hello.py
+   84  python3 hello.py
+   85  python3 ~/CIT173_Lab3_Files/hello.py
+   86  python3 ~/CIT173_Lab3_Files/hello.py > ~/CIT173_Lab3/my-python-output.txt
+   87  python3 ~/CIT173_Lab3_Files/infinite.py *
+   88  python3 ~/CIT173_Lab3_Files/infinite.py ps
+   89  ps
+   90  ps > ~/CIT173_Lab3/my-processes-2.txt
+   91  kill
+   92  man apt
+   93  ls -al
+   94  ps
+   95  ps > ~/CIT173_Lab3/my-processes-2.txt
+   96  sudo apt-get remove python3-minimal
+   97  apt list --installed > ~/CIT173_Lab3/my-installed-2.txt
+   98  history > ~CIT173_Lab3/my-command-history.txt
+   99  history > ~/CIT173_Lab3/my-command-history.txt
